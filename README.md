@@ -14,6 +14,6 @@
 
 #### From left to right are: original images, driving action videos, output results
 
-<span style="display:inline-block;">
+<span style="display:inline-block;text-align:center;">
     <img src="/img/bird.gif" width="720" height="720" title="Birds"/><br>example of bird
 </span>
