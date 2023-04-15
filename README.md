@@ -29,7 +29,7 @@
 <br />
 
 <span style="display:inline-block;text-align:center;">
-    <img src="/img/图片3.gif" width="720" height="720" title="Birds"/>
+    <img src="/img/图片3.gif" width="742" height="1210" title="Birds"/>
 </span>
 
 <br />
@@ -39,7 +39,7 @@
 <br />
 
 <span style="display:inline-block;text-align:center;">
-    <img src="/img/ggb.gif" width="720" height="720" title="Birds"/>
+    <img src="/img/ggb.gif" width="720" height="1224" title="Birds"/>
 </span>
 
 <br />
