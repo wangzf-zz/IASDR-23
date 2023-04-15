@@ -14,7 +14,7 @@
 
 <br />
 
-<center> From left to right are: original images, driving action videos, output results</center>
+#### From left to right are: original images, driving action videos, output results
 
 <br />
 
