@@ -29,7 +29,7 @@
 <br />
 
 <span style="display:inline-block;text-align:center;">
-    <img src="/img/图片3.gif" width="742" height="1210" title="Birds"/>
+    <img src="/img/cat.gif" width="742" height="1210" title="Birds"/>
 </span>
 
 <br />
@@ -48,3 +48,25 @@
 
 <br />
 
+
+## AI generated painting process for boneless paintings
+
+<br />
+
+<span style="display:inline-block;text-align:center;">
+    <img src="/img/train.png" width="1200" height="1466" title="Birds"/>
+</span>
+
+<br />
+
+#### Example of test results, the final image of the sequence is the input image, and the 8 front images are generated painting process
+
+<br />
+
+<span style="display:inline-block;text-align:center;">
+    <img src="/img/GT.png" width="1200" height="800" title="Birds"/>
+</span>
+
+<br />
+
+#### Example of real painting process
