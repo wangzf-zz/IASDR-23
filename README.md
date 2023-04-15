@@ -1,8 +1,6 @@
-# IASDR-23
+# IASDR-23 #391 paper appendix
 
-## IASDR'23 #391 paper appendix
-
-### AI generated videos examples for boneless paintings
+## AI generated videos examples for boneless paintings
 
 ### Note: Please click the "play" button to see the animation
 
