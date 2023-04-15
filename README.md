@@ -15,5 +15,16 @@
 #### From left to right are: original images, driving action videos, output results
 
 <span style="display:inline-block;text-align:center;">
-    <img src="/img/bird.gif" width="720" height="720" title="Birds"/><br>example of bird
+    <img src="/img/bird.gif" width="720" height="720" title="Birds"/>
 </span>
+#### Example of bird
+<span style="display:inline-block;text-align:center;">
+    <img src="/img/图片3.gif" width="720" height="720" title="Birds"/>
+</span>
+#### Example of cat
+
+<span style="display:inline-block;text-align:center;">
+    <img src="/img/ggb.gif" width="720" height="720" title="Birds"/>
+</span>
+
+#### Example of Rooster
