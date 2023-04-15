@@ -19,14 +19,17 @@
 <span style="display:inline-block;text-align:center;">
     <img src="/img/bird.gif" width="720" height="720" title="Birds"/>
 </span>
+<br />
 #### Example of bird
 <span style="display:inline-block;text-align:center;">
     <img src="/img/图片3.gif" width="720" height="720" title="Birds"/>
 </span>
+<br />
 #### Example of cat
 
 <span style="display:inline-block;text-align:center;">
     <img src="/img/ggb.gif" width="720" height="720" title="Birds"/>
 </span>
+<br />
 
 #### Example of Rooster
