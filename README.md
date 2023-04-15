@@ -6,7 +6,7 @@
 
 
 <span style="display:inline-block;">
-    <img src="/img/f27ca2560ed8abd1eb16e8317e9cefc.png" width="200" height="200" title="Source image"/><br>Image1
-    <img src="/img/crane1.gif" width="200" height="200" title="Action video"/><br>Image2
-    <img src="/img/cbb.gif" width="200" height="200" title="Output results"/><br>Image3
+    <img src="/img/f27ca2560ed8abd1eb16e8317e9cefc.png" width="200" height="200" title="Source image"/>
+    <img src="/img/crane1.gif" width="200" height="200" title="Action video"/>
+    <img src="/img/cbb.gif" width="200" height="200" title="Output results"/>
 </span>
