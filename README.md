@@ -70,3 +70,7 @@
 <br />
 
 #### Example of real painting process
+<br />
+<br />
+
+#### Thank you for your visiting! All the source data and code will be made available soon.
