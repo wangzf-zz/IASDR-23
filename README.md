@@ -10,3 +10,6 @@
     <img src="/img/crane1.gif" width="200" height="200" title="Action video"/>
     <img src="/img/cbb.gif" width="384" height="640" title="Output results"/>
 </span>
+
+
+#### From left to right are: original images, driving action videos, output results
