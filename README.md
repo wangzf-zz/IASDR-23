@@ -12,7 +12,7 @@
 </span>
 
 
-#### From left to right are: original images, driving action videos, output results
+<center>#### From left to right are: original images, driving action videos, output results</center>
 
 <span style="display:inline-block;text-align:center;">
     <img src="/img/bird.gif" width="720" height="720" title="Birds"/>
